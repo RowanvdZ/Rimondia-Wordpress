@@ -1,0 +1,52 @@
+[20-Feb-2020 18:00:42] NOTICE: fpm is running, pid 16
+[20-Feb-2020 18:00:42] NOTICE: ready to handle connections
+[20-Feb-2020 18:14:42] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[20-Feb-2020 19:02:04] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[21-Feb-2020 16:04:55] NOTICE: Terminating ...
+[21-Feb-2020 16:04:55] NOTICE: exiting, bye-bye!
+[21-Feb-2020 16:05:03] NOTICE: fpm is running, pid 56
+[21-Feb-2020 16:05:03] NOTICE: ready to handle connections
+[21-Feb-2020 16:11:23] NOTICE: Terminating ...
+[21-Feb-2020 16:11:23] NOTICE: exiting, bye-bye!
+[21-Feb-2020 16:11:27] NOTICE: fpm is running, pid 56
+[21-Feb-2020 16:11:27] NOTICE: ready to handle connections
+[21-Feb-2020 16:20:53] NOTICE: Terminating ...
+[21-Feb-2020 16:20:53] NOTICE: exiting, bye-bye!
+[21-Feb-2020 16:21:00] NOTICE: fpm is running, pid 54
+[21-Feb-2020 16:21:00] NOTICE: ready to handle connections
+[21-Feb-2020 16:30:44] NOTICE: Terminating ...
+[21-Feb-2020 16:30:44] NOTICE: exiting, bye-bye!
+[21-Feb-2020 16:30:49] NOTICE: fpm is running, pid 56
+[21-Feb-2020 16:30:49] NOTICE: ready to handle connections
+[21-Feb-2020 16:46:53] NOTICE: Terminating ...
+[21-Feb-2020 16:46:53] NOTICE: exiting, bye-bye!
+[21-Feb-2020 16:46:58] NOTICE: fpm is running, pid 56
+[21-Feb-2020 16:46:58] NOTICE: ready to handle connections
+[21-Feb-2020 17:16:54] NOTICE: Terminating ...
+[21-Feb-2020 17:16:54] NOTICE: exiting, bye-bye!
+[21-Feb-2020 19:08:02] NOTICE: fpm is running, pid 56
+[21-Feb-2020 19:08:02] NOTICE: ready to handle connections
+[24-Feb-2020 14:04:46] NOTICE: Terminating ...
+[24-Feb-2020 14:04:46] NOTICE: exiting, bye-bye!
+[24-Feb-2020 14:04:53] NOTICE: fpm is running, pid 56
+[24-Feb-2020 14:04:53] NOTICE: ready to handle connections
+[04-Mar-2020 20:30:46] NOTICE: fpm is running, pid 51
+[04-Mar-2020 20:30:46] NOTICE: ready to handle connections
+[11-Mar-2020 21:35:12] NOTICE: Terminating ...
+[11-Mar-2020 21:35:12] NOTICE: exiting, bye-bye!
+[14-Mar-2020 15:11:36] NOTICE: fpm is running, pid 27
+[14-Mar-2020 15:11:36] NOTICE: ready to handle connections
+[17-Mar-2020 20:38:46] NOTICE: fpm is running, pid 51
+[17-Mar-2020 20:38:46] NOTICE: ready to handle connections
+[21-Mar-2020 13:07:24] NOTICE: Terminating ...
+[21-Mar-2020 13:07:24] NOTICE: exiting, bye-bye!
+[28-Mar-2020 18:29:41] NOTICE: fpm is running, pid 56
+[28-Mar-2020 18:29:41] NOTICE: ready to handle connections
+[30-Mar-2020 19:58:12] NOTICE: fpm is running, pid 56
+[30-Mar-2020 19:58:12] NOTICE: ready to handle connections
+[31-Mar-2020 20:31:40] NOTICE: Terminating ...
+[31-Mar-2020 20:31:40] NOTICE: exiting, bye-bye!
+[31-Mar-2020 20:31:50] NOTICE: fpm is running, pid 56
+[31-Mar-2020 20:31:50] NOTICE: ready to handle connections
+[31-Mar-2020 20:34:32] NOTICE: Terminating ...
+[31-Mar-2020 20:34:32] NOTICE: exiting, bye-bye!
